@@ -73,15 +73,14 @@
 - Nginx<br>
 
 ## Diagram
-[]()
+
 #### カタログ設計
 https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9NfRE4/edit?usp=sharing
 
 #### 画面遷移図
 https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
 
-#### 画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/1BZcZW4gN4798b8y_P3gPs5HXNigK1WUd7ORRgfcsYkk/edit?usp=sharing
+
 ## URL
 [http://35.72.239.105/](http://35.72.239.105/)
 ## Usage
