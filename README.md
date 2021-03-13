@@ -1,4 +1,4 @@
-# Suggests & projects
+# Meets Suggests & Abilities
 - [Description](#description)<br>
 - [Features](#features)<br>
 
@@ -38,6 +38,7 @@
 - CircleCI<br>
 - RSpec<br>
 #### 本番環境<br>
+- AWS VPC<br>
 - AWS EC2<br>
 - Unicorn<br>
 - Nginx<br>
