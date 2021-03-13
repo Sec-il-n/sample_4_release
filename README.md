@@ -68,7 +68,6 @@
 - Ruby 　2.6.5 <br>
 - Rails 　5.2.4<br>
 - Postgresql<br>
-#### 画像アップロード<br>
 - AWS S3<br>
 #### 開発環境<br>
 - Docker<br>
