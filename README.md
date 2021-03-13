@@ -1,5 +1,10 @@
 # Suggests & projects
-[Description](#description)
+- [Description](#description)<br>
+- [Features](#features)<br>
+- [Purpose](#purpose)<br>
+- [Requirement](#requirement)<br>
+- [URL](#url)<br>
+
 
 ## Description
 企業のためのソーシャルワークツール
@@ -7,6 +12,8 @@
 ## Features
 - 大・中小企業、個人事業主、フリーランスなどあらゆる事業形態の企業・個人が、<br>
 互いの分野・スキルを生かした提案やプロジェクトを共有し自由に参加できる機会を提供する
+<br>
+
 - 複数企業がコラボレーションすることで新しいビジネスを創造する
 
 ## Purpose
