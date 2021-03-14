@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T01:19:23.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="X1j9Asrz-jAJw2D5ZzLm" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T01:30:52.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="D8wpqzJ9yhE-9y4Y4_zj" version="14.4.2" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="949" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="nK8ajeVO0bYjH4UbJxVL-20" value="" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nK8ajeVO0bYjH4UbJxVL-21" value="Ruby、Ruby on Rails&lt;br&gt;&lt;br&gt;&lt;br&gt;・プロを目指す人のためのRuby入門&lt;br&gt;伊藤 淳一（著）&lt;br&gt;&lt;br&gt;・Progate&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;スクールカリキュラム&lt;br&gt;開始" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nK8ajeVO0bYjH4UbJxVL-22" value="" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="140" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
