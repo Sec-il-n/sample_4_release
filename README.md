@@ -83,10 +83,10 @@
   - controller
   - requests
   - system
+- FactoryBot
 - Capybara / capybara-email
 - seed-fu
-- FactoryBot
-  
+
 ## Diagram
 
 #### カタログ設計
