@@ -4,6 +4,7 @@
 - [Features](#features)<br>
 - [Requirement](#requirement)<br>
 - [Diagram](#diagram)<br>
+- [Usage](#usage)<br>
 - [URL](#url)<br>
 
 
