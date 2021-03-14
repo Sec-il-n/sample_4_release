@@ -119,7 +119,7 @@ https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9Nf
 https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
 
 ## Process
-![]()
+![作成過程](https://github.com/Sec-il-n/sample_4_release/blob/main/2021_Jan_Mar.png)
 
 ## URL
 [http://35.72.239.105/](http://35.72.239.105/)
