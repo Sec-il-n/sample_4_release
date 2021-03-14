@@ -64,7 +64,8 @@
 - Ruby on Rails   5.2.4<br>
 - Postgresql   13.0 +<br>
 - Puma
-- AWS S3<br>
+- AWS 
+  - S3
 #### Development・Test
 - Docker / Docker-compose<br>
 - CircleCI<br>
