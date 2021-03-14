@@ -112,7 +112,10 @@
 
 ## Diagram
 #### ER図
+https://github.com/Sec-il-n/sample_4_release/blob/main/ER%E5%9B%B3_suggest_2.png
 
+#### テーブル定義
+https://docs.google.com/spreadsheets/d/1q_pe_E9GvUeGWUrViyDejw9MnJwPwINRYutINFH5Lg0/edit?usp=sharing
 
 #### カタログ設計
 https://docs.google.com/spreadsheets/d/1IHxop4dQuERzb5PKbrBkjRABzd4cVO5q8ieg7SDzzx0/edit?usp=sharing
