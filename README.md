@@ -84,9 +84,6 @@ https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9Nf
 https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
 
 
-## URL
-[http://35.72.239.105/](http://35.72.239.105/)
-
 ## Usage
 **[ログイン]()した上で以下のリンクをクリックするとサイトへ移動します**
 
@@ -111,5 +108,7 @@ https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-U
   - （サービス提供企業の設定なのでseedで作成済）
 - 管理者画面から提案・プロジェクトの編集・削除ができる
 
+## URL
+[http://35.72.239.105/](http://35.72.239.105/)
 
 ## Author
