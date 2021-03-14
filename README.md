@@ -117,8 +117,7 @@ https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-U
 #### 管理者
 
 - email:`admin_11@hoge1.jp`, password: `password`で[ログイン]()
-  - （サービス提供企業の設定なのでseedで作成済）
-- 管理者画面から提案・プロジェクトの編集・削除ができる
+- [管理者画面]()から提案・プロジェクトの編集・削除ができる
 
 ## URL
 [http://35.72.239.105/](http://35.72.239.105/)
