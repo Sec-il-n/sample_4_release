@@ -21,16 +21,16 @@
 
 ## Features
 
-#### ユーザー登録
+#### ユーザー登録（devise）
 
 - プロフィール掲載機能 
-  - プロフィール画像を登録できる
+  - プロフィール画像を登録できる（CarrierWave, aws s3）
 - 登録内容の編集・削除機能
 - ログイン、ログアウト機能
 
 #### 新規提案・プロジェクト
 - 一覧表示機能
-  - ページネーション機能
+  - ページネーション機能（kaminari）
   - カテゴリ別検索機能
   - タグ検索機能
 - 投稿機能
@@ -38,9 +38,9 @@
 - 編集・削除機能
   - 管理者のみ実行可能
 
-#### コメント機能
+#### コメント機能（Ajax, JQuery）
+
 -  投稿・一覧表示機能
-   - Ajaxを利用した非同期通信で表示される
 -  編集・削除機能
    - 投稿者は編集、管理者は削除が可能
 
@@ -50,30 +50,33 @@
   - プロフィール画像を登録できる
 - プロフィール編集機能
 
-#### メッセージ(チャット)機能
+#### メッセージ(チャット)機能（ActionCable)
 - 投稿機能
   - 提案・プロジェクトに参加中の企業担当者同士でやりとりができる
-  - ActionCableを使用した非同期通信で実装
-
+ 
 #### お問い合わせ機能
-- 通知メール送信機能
+- 通知メール送信機能(ActionMailer)
   - 問い合わせをしたユーザーと管理者へ通知メールが届く
 
 
 ## Requirement
-- Ruby 　2.6.5 <br>
-- Rails 　5.2.4<br>
-- Postgresql<br>
+- Ruby   2.6.5 <br>
+- Ruby on Rails   5.2.4<br>
+- Postgresql   13.0 +<br>
+- Puma
 - AWS S3<br>
-#### 開発環境
-- Docker<br>
+#### Development・Test
+- Docker / Docker-compose<br>
 - CircleCI<br>
 - RSpec<br>
-#### 本番環境
-- AWS VPC<br>
-- AWS EC2<br>
-- Unicorn<br>
-- Nginx<br>
+- Capistrano 3
+#### Production
+- AWS 
+  - VPC
+  - EC2
+  - SES
+- Unicorn
+- Nginx
 
 ## Diagram
 
