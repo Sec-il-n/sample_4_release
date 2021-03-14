@@ -113,7 +113,7 @@
 ## Diagram
 
 #### カタログ設計
-https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9NfRE4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1IHxop4dQuERzb5PKbrBkjRABzd4cVO5q8ieg7SDzzx0/edit?usp=sharing
 
 #### 画面遷移図
 https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
