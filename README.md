@@ -66,10 +66,9 @@
 - Puma
 - AWS 
   - S3
-#### Development・Test
-- Docker / Docker-compose<br>
-- CircleCI<br>
-- RSpec<br>
+#### Development
+- Docker / Docker-compose
+- CircleCI
 - Capistrano 3
 #### Production
 - AWS 
@@ -78,7 +77,16 @@
   - SES
 - Unicorn
 - Nginx
-
+#### Test
+- RSpec
+  - model
+  - controller
+  - requests
+  - system
+- Capybara / capybara-email
+- seed-fu
+- FactoryBot
+  
 ## Diagram
 
 #### カタログ設計
