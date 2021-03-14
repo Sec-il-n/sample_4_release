@@ -111,12 +111,14 @@
 - [管理者画面]()から提案・プロジェクトの編集・削除ができる
 
 ## Diagram
+#### ER図
+
 
 #### カタログ設計
 https://docs.google.com/spreadsheets/d/1IHxop4dQuERzb5PKbrBkjRABzd4cVO5q8ieg7SDzzx0/edit?usp=sharing
 
 #### 画面遷移図
-https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
+https://github.com/Sec-il-n/sample_4_release/blob/main/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3_suggests.png
 
 ## Process
 ![作成過程](https://github.com/Sec-il-n/sample_4_release/blob/main/2021_Jan_Mar.png)
