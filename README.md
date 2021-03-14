@@ -87,6 +87,23 @@
 - Capybara / capybara-email
 - seed-fu
 
+## Diagram
+#### ER図
+https://github.com/Sec-il-n/sample_4_release/blob/main/ER%E5%9B%B3_suggest_2.png
+
+#### テーブル定義
+https://docs.google.com/spreadsheets/d/1q_pe_E9GvUeGWUrViyDejw9MnJwPwINRYutINFH5Lg0/edit?usp=sharing
+
+#### カタログ設計
+https://docs.google.com/spreadsheets/d/1IHxop4dQuERzb5PKbrBkjRABzd4cVO5q8ieg7SDzzx0/edit?usp=sharing
+
+#### 画面遷移図
+https://github.com/Sec-il-n/sample_4_release/blob/main/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3_suggests.png
+
+#### インフラ構成図
+![インフラ構成図](https://github.com/Sec-il-n/sample_4_release/blob/main/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%A7%8B%E6%88%90%E5%9B%B3.png)
+
+
 ## Usage
 **[ログイン]()した上で以下のリンクをクリックするとサイトへ移動します**
 
@@ -110,18 +127,6 @@
 - email:`admin_11@hoge1.jp`, password: `password`で[ログイン]()
   - [管理者画面]()から提案・プロジェクトの編集・削除ができる
 
-## Diagram
-#### ER図
-https://github.com/Sec-il-n/sample_4_release/blob/main/ER%E5%9B%B3_suggest_2.png
-
-#### テーブル定義
-https://docs.google.com/spreadsheets/d/1q_pe_E9GvUeGWUrViyDejw9MnJwPwINRYutINFH5Lg0/edit?usp=sharing
-
-#### カタログ設計
-https://docs.google.com/spreadsheets/d/1IHxop4dQuERzb5PKbrBkjRABzd4cVO5q8ieg7SDzzx0/edit?usp=sharing
-
-#### 画面遷移図
-https://github.com/Sec-il-n/sample_4_release/blob/main/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3_suggests.png
 
 ## Process
 ![作成過程](https://github.com/Sec-il-n/sample_4_release/blob/main/2021_Jan_Mar.png)
