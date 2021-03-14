@@ -65,11 +65,11 @@
 - Rails 　5.2.4<br>
 - Postgresql<br>
 - AWS S3<br>
-#### 開発環境<br>
+#### 開発環境
 - Docker<br>
 - CircleCI<br>
 - RSpec<br>
-#### 本番環境<br>
+#### 本番環境
 - AWS VPC<br>
 - AWS EC2<br>
 - Unicorn<br>
@@ -86,7 +86,9 @@ https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-U
 
 ## URL
 [http://35.72.239.105/](http://35.72.239.105/)
+
 ## Usage
+**[ログイン]()した上で以下のリンクをクリックするとサイトへ移動します**
 
 #### 利用者
 
@@ -102,5 +104,12 @@ https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-U
   - 提案・プロジェクト詳細画面に表示される参加ボタンから提案・プロジェクトへ参加できる
   - 参加中の提案・プロジェクト投稿者とのチャットルームを開設できる
   - 参加中のプロジェクトを一覧表示できる
+
+#### 管理者
+
+- email:`admin_11@hoge1.jp`, password: `password`で[ログイン]()
+  - （サービス提供企業の設定なのでseedで作成済）
+- 管理者画面から提案・プロジェクトの編集・削除ができる
+
 
 ## Author
