@@ -87,15 +87,6 @@
 - Capybara / capybara-email
 - seed-fu
 
-## Diagram
-
-#### カタログ設計
-https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9NfRE4/edit?usp=sharing
-
-#### 画面遷移図
-https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
-
-
 ## Usage
 **[ログイン]()した上で以下のリンクをクリックするとサイトへ移動します**
 
@@ -118,6 +109,14 @@ https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-U
 
 - email:`admin_11@hoge1.jp`, password: `password`で[ログイン]()
 - [管理者画面]()から提案・プロジェクトの編集・削除ができる
+
+## Diagram
+
+#### カタログ設計
+https://docs.google.com/spreadsheets/d/1QarMazm0V8BS-qANOKpb1HXgNEDyPufsvOfpb9NfRE4/edit?usp=sharing
+
+#### 画面遷移図
+https://docs.google.com/spreadsheets/d/1lzj2cUPg4r8MVvH0KEybdCnciPl06OOMxmE3O4-UG28/edit?usp=sharing
 
 ## URL
 [http://35.72.239.105/](http://35.72.239.105/)
