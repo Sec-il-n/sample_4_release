@@ -186,3 +186,4 @@ rails5で導入された積極的に機能を取り入れた<br>
 [http://35.72.239.105/](http://35.72.239.105/)
 
 ## Author
+[sec-il-n](https://github.com/Sec-il-n/resume_auther/blob/main/README.md)
