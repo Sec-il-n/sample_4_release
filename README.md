@@ -169,6 +169,7 @@ https://github.com/Sec-il-n/sample_4_release/blob/main/%E7%94%BB%E9%9D%A2%E9%81%
   - DockerFileの記法 <br>
 - **CircleCIのデプロイ**<br>
   - SSH秘密鍵の扱い<br>
+- **本番環境やCircleCI上でのpostgresqlの構築**<br>
 
 #### 解決できなかった問題、改善が必要な点
 - 編集時の複数タグの付け替え<br>
