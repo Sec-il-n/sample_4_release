@@ -65,7 +65,7 @@
 ## Requirement
 - Ruby   2.6.5 <br>
 - Ruby on Rails   5.2.4<br>
-- Postgresql   13.0 +<br>
+- Postgresql<br>
 - Puma
 - AWS 
   - S3
